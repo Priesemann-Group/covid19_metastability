@@ -1,7 +1,7 @@
-# Code repository for Long-term stable control of COVID-19 at low casenumbers
+# Code repository for Long-term stable control of COVID-19 at low case numbers
 
 In this repository you can find the supplementary code
-for our paper on [insert puplication site/magazin].
+for our paper [Contreras et al., 2021](https://arxiv.org/abs/2011.11413).
 
 You can find the C++ code for our model implementation in the 'Cpp_Implementation' folder, the matlab Implementation in the 'MATLAB' folder and some scripts for plotting especially for the global overview figures in the 'Plotting' folder. For running the MATLAB codes make sure that both "Functions" and "Data_files" folders are in the path.
 
